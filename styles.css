@@ -20,7 +20,7 @@
   html {
     box-sizing: border-box;
     font-size: 62.5%;
-    scroll-behaviour:smooth;
+    scroll-behavior:smooth;
   }
   
   @media (max-width: 75em) {
